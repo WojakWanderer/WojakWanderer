@@ -3,12 +3,14 @@
 
 
 
-## 🚀 About Me
+## 🚀 About Me:
 Slowly learning skills to earn me a carrer in IT. And passing my learning on while I do it!
 
 
 
 
-## 🛠 Skills
+## 🛠 Skills:
 Javascript, HTML, CSS, Python, C++, sh
 
+## 🧠 Currently learning:
+PHP, Java
