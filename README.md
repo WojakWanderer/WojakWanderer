@@ -10,7 +10,7 @@ Slowly learning skills to earn me a carrer in IT. And passing my learning on whi
 
 
 ## 🛠 Skills:
-Javascript, HTML, CSS, Python, C++, sh
+Javascript, HTML, CSS, Python, C++, sh, PHP
 
 ## 🧠 Currently learning:
-PHP, Java
+react, node.js
